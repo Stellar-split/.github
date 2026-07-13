@@ -1,6 +1,8 @@
-# Stellar-split 🔀
-
-> **On-chain invoice & payment splitting on Stellar Soroban** — split bills, freelancer payments, and remittances with automatic trustless USDC routing.
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Stellar-split/.github/main/assets/stellarsplit-lockup.svg" alt="StellarSplit" width="320" />
+  <br/><br/>
+  <p><strong>On-chain invoice &amp; payment splitting on Stellar Soroban</strong> — split bills, freelancer payments, and remittances with automatic trustless USDC routing.</p>
+</div>
 
 [![Stellar](https://img.shields.io/badge/Network-Stellar-blue?logo=stellar)](https://stellar.org)
 [![Soroban](https://img.shields.io/badge/Smart%20Contracts-Soroban-purple)](https://soroban.stellar.org)
