@@ -1,0 +1,20 @@
+<svg width="200" height="200" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g" x1="50" y1="8" x2="50" y2="92" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#2B5BE2"/>
+      <stop offset="100%" stop-color="#07C8EB"/>
+    </linearGradient>
+  </defs>
+  <!-- stem -->
+  <line x1="50" y1="14" x2="50" y2="46" stroke="url(#g)" stroke-width="7" stroke-linecap="round"/>
+  <!-- branches -->
+  <line x1="50" y1="46" x2="18" y2="86" stroke="url(#g)" stroke-width="6.5" stroke-linecap="round"/>
+  <line x1="50" y1="46" x2="50" y2="86" stroke="url(#g)" stroke-width="6.5" stroke-linecap="round"/>
+  <line x1="50" y1="46" x2="82" y2="86" stroke="url(#g)" stroke-width="6.5" stroke-linecap="round"/>
+  <!-- payer node -->
+  <circle cx="50" cy="11" r="7" fill="#2B5BE2"/>
+  <!-- recipient nodes -->
+  <circle cx="18" cy="89" r="5.5" fill="#07C8EB"/>
+  <circle cx="50" cy="89" r="5.5" fill="#07C8EB"/>
+  <circle cx="82" cy="89" r="5.5" fill="#07C8EB"/>
+</svg>

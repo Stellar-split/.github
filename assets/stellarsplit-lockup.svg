@@ -1,0 +1,21 @@
+<svg width="440" height="112" viewBox="0 0 220 56" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="220" height="56" rx="8" fill="#0B1628"/>
+  <defs>
+    <linearGradient id="g" x1="28" y1="4" x2="28" y2="52" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#4A7AF5"/>
+      <stop offset="100%" stop-color="#07C8EB"/>
+    </linearGradient>
+  </defs>
+  <!-- mark -->
+  <line x1="28" y1="9" x2="28" y2="26" stroke="url(#g)" stroke-width="4" stroke-linecap="round"/>
+  <line x1="28" y1="26" x2="10" y2="49" stroke="url(#g)" stroke-width="3.5" stroke-linecap="round"/>
+  <line x1="28" y1="26" x2="28" y2="49" stroke="url(#g)" stroke-width="3.5" stroke-linecap="round"/>
+  <line x1="28" y1="26" x2="46" y2="49" stroke="url(#g)" stroke-width="3.5" stroke-linecap="round"/>
+  <circle cx="28" cy="7" r="4" fill="#4A7AF5"/>
+  <circle cx="10" cy="51" r="3.2" fill="#07C8EB"/>
+  <circle cx="28" cy="51" r="3.2" fill="#07C8EB"/>
+  <circle cx="46" cy="51" r="3.2" fill="#07C8EB"/>
+  <!-- wordmark -->
+  <text x="62" y="24" font-family="'Helvetica Neue', Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="-0.3" fill="#E8EFFC">STELLAR</text>
+  <text x="62" y="44" font-family="'Helvetica Neue', Arial, sans-serif" font-size="16" font-weight="300" letter-spacing="2.5" fill="#07C8EB">SPLIT</text>
+</svg>
